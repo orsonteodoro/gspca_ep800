@@ -4,9 +4,9 @@
  * Copyright (C) 2012 Orson Teodoro <orsonteodoro@yahoo.com>
  * Copyright (C) 2011 Hans de Goede <hdegoede@redhat.com>
  *
- * Based on the v4l1 se401 driver which is:
+ * Based on the v4l1 epcam driver which is:
  *
- * Copyright (c) 2000 Jeroen B. Vreeken (pe1rxq@amsat.org)
+ * Copyright (c) 2003, 2004 Jeroen B. Vreeken (pe1rxq@amsat.org)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
