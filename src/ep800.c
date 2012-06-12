@@ -82,10 +82,6 @@ enum {
 	FMT_EPLITE,
 };
 
-struct ep800_sbuf {
-	unsigned char *data;
-};
-
 struct ep800_frame {
 	unsigned char *data;		/* Frame buffer */
 	volatile int grabstate;		/* State of grabbing */
