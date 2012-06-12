@@ -29,7 +29,7 @@
 #define MODULE_NAME "ep800"
 
 #define READ_REQ_SIZE 64
-#define MAX_MODES 3
+#define MAX_MODES 4
 /* The EP800 compression algorithm uses a fixed quant factor, which
    can be configured by setting the high nibble of the EP800_OPERATINGMODE
    feature. This needs to exactly match what is in libv4l! */
