@@ -1003,7 +1003,7 @@ static const struct sd_desc sd_desc = {
 	.stopN = sd_stopN,
 	.dq_callback = sd_dq_callback,
 #if defined(CONFIG_INPUT) || defined(CONFIG_INPUT_MODULE)
-	//.int_pkt_scan = sd_int_pkt_scan,
+	.int_pkt_scan = sd_int_pkt_scan,
 #endif
 };
 
